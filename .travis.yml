@@ -1,5 +1,4 @@
-language: c
-compiler: gcc
+language: generic
 dist: trusty
 script: ./judge
 
